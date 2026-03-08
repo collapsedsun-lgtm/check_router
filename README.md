@@ -63,3 +63,13 @@ Troubleshooting
 
 License
 This project is released under the MIT License. See `LICENSE`.
+
+Release
+-------
+
+v0.1.0 — Initial release
+
+- First public release: lightweight `check_router.sh` script, documentation, and
+	usage examples.
+
+If you want a different tag name or release notes, tell me and I can update them.
