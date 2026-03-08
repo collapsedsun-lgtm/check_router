@@ -1,0 +1,5 @@
+*.log
+*.swp
+/.vscode
+-coverage
+node_modules
